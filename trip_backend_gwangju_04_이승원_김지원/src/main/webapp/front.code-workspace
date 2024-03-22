@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../Desktop/front"
+	},
+	{
+		"path": "../trip"
+	},
+	{
+		"path": "../bookcafe"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bookcafe"
+  }
+}
